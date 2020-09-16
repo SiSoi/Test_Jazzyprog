@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1843d9d1-5a48-4074-805d-8ebd5be8248c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/40f0309d-ccb2-447c-bc8d-0752c1a1dbf1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/40f0309d-ccb2-447c-bc8d-0752c1a1dbf1/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/history.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/banner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/form-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/form-order-search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/form-register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/form-upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/script-item-quantity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/csc_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/csc_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/lit_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/mth_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/neu_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/psy_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/Page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/add-to-cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/change-user-role.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/check-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/create-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/delete-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/delete-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/edit-profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/insert-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/logout-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/process-order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/remove-from-cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proc/update-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/processorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1gCjyqPBWj6Ze03ZF9gMex20HTL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../admin_nginx/www/html/order.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/proc" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/lib" />
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/src/html" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php">
+    <configuration name="form-upload.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test/html/form-upload.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="User.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/lib/User.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="item.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/item.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="store.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/store.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/test/test.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.form-upload.html" />
+      <item itemvalue="PHP Script.test.php" />
+      <item itemvalue="PHP Script.User.php (1)" />
+      <item itemvalue="PHP Script.store.php" />
+      <item itemvalue="PHP Script.item.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="JavaScript Debug.form-upload.html" />
+        <item itemvalue="PHP Script.item.php" />
+        <item itemvalue="PHP Script.store.php" />
+        <item itemvalue="PHP Script.User.php (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1843d9d1-5a48-4074-805d-8ebd5be8248c" name="Default Changelist" comment="" />
+      <created>1597625732470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597625732470</updated>
+      <workItem from="1597625737242" duration="779000" />
+      <workItem from="1597634822070" duration="5614000" />
+      <workItem from="1597748100114" duration="1739000" />
+      <workItem from="1597820704352" duration="17000" />
+      <workItem from="1597821056148" duration="10106000" />
+      <workItem from="1597903456587" duration="38952000" />
+      <workItem from="1598239224981" duration="27280000" />
+      <workItem from="1598325721599" duration="17227000" />
+      <workItem from="1598842445457" duration="7743000" />
+      <workItem from="1598850509908" duration="56035000" />
+      <workItem from="1599076888627" duration="4767000" />
+      <workItem from="1599155521621" duration="45971000" />
+      <workItem from="1599301975943" duration="3534000" />
+      <workItem from="1599621306586" duration="69499000" />
+      <workItem from="1599817653576" duration="21091000" />
+      <workItem from="1600009738257" duration="12023000" />
+      <workItem from="1600026945544" duration="21016000" />
+      <workItem from="1600089995964" duration="2552000" />
+      <workItem from="1600094074326" duration="14279000" />
+      <workItem from="1600163658024" duration="4897000" />
+      <workItem from="1600169138966" duration="4528000" />
+      <workItem from="1600208014553" duration="6387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="38" width="824" height="691" key="#CLI_Interpreters" timestamp="1597899291616">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="382" y="38" width="824" height="691" key="#CLI_Interpreters/72.27.1464.702@72.27.1464.702" timestamp="1597899291616" />
+    <state x="433" y="59" width="732" height="644" key="#Inspections" timestamp="1598938816673">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="433" y="59" width="732" height="644" key="#Inspections/72.27.1464.702@72.27.1464.702" timestamp="1598938816673" />
+    <state x="449" y="27" width="700" height="702" key="#PHP" timestamp="1597899300460">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="449" y="27" width="700" height="702" key="#PHP/72.27.1464.702@72.27.1464.702" timestamp="1597899300460" />
+    <state x="100" y="231" width="1397" height="301" key="#SQL_Dialects" timestamp="1597985491521">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="100" y="231" width="1397" height="301" key="#SQL_Dialects/72.27.1464.702@72.27.1464.702" timestamp="1597985491521" />
+    <state x="399" y="39" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597991418935">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="399" y="39" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1464.702@72.27.1464.702" timestamp="1597991418935" />
+    <state x="516" y="180" width="566" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598245457356">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="516" y="180" width="566" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1464.702@72.27.1464.702" timestamp="1598245457356" />
+    <state x="537" y="127" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598861037026">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="537" y="127" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1464.702@72.27.1464.702" timestamp="1598861037026" />
+    <state x="587" y="306" width="424" height="151" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#" timestamp="1598940873992">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="587" y="306" width="424" height="151" key="#com.jetbrains.php.lang.intentions.PhpImportClassDialog#/72.27.1464.702@72.27.1464.702" timestamp="1598940873992" />
+    <state x="587" y="136" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598240069141">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="587" y="136" width="424" height="491" key="FileChooserDialogImpl/72.27.1464.702@72.27.1464.702" timestamp="1598240069141" />
+    <state x="665" y="278" width="277" height="207" key="Github.ShareDialog" timestamp="1600214260849">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="665" y="278" width="277" height="207" key="Github.ShareDialog/72.27.1464.702@72.27.1464.702" timestamp="1600214260849" />
+    <state x="476" y="65" width="646" height="633" key="Github.UntrackedFilesDialog" timestamp="1600214293271">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="476" y="65" width="646" height="633" key="Github.UntrackedFilesDialog/72.27.1464.702@72.27.1464.702" timestamp="1600214293271" />
+    <state width="1418" height="113" key="GridCell.Tab.0.bottom" timestamp="1600048026167">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="113" key="GridCell.Tab.0.bottom/72.27.1464.702@72.27.1464.702" timestamp="1600048026167" />
+    <state width="1418" height="113" key="GridCell.Tab.0.center" timestamp="1600048026166">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="113" key="GridCell.Tab.0.center/72.27.1464.702@72.27.1464.702" timestamp="1600048026166" />
+    <state width="1418" height="113" key="GridCell.Tab.0.left" timestamp="1600048026164">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="113" key="GridCell.Tab.0.left/72.27.1464.702@72.27.1464.702" timestamp="1600048026164" />
+    <state width="1418" height="113" key="GridCell.Tab.0.right" timestamp="1600048026167">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="113" key="GridCell.Tab.0.right/72.27.1464.702@72.27.1464.702" timestamp="1600048026167" />
+    <state width="1418" height="200" key="GridCell.Tab.1.bottom" timestamp="1599963786014">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.1.bottom/72.27.1464.702@72.27.1464.702" timestamp="1599963786013" />
+    <state width="1418" height="200" key="GridCell.Tab.1.center" timestamp="1599963786013">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.1.center/72.27.1464.702@72.27.1464.702" timestamp="1599963786013" />
+    <state width="1418" height="200" key="GridCell.Tab.1.left" timestamp="1599963786012">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.1.left/72.27.1464.702@72.27.1464.702" timestamp="1599963786012" />
+    <state width="1418" height="200" key="GridCell.Tab.1.right" timestamp="1599963786013">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.1.right/72.27.1464.702@72.27.1464.702" timestamp="1599963786013" />
+    <state width="1418" height="200" key="GridCell.Tab.2.bottom" timestamp="1599963786015">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.2.bottom/72.27.1464.702@72.27.1464.702" timestamp="1599963786015" />
+    <state width="1418" height="200" key="GridCell.Tab.2.center" timestamp="1599963786014">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.2.center/72.27.1464.702@72.27.1464.702" timestamp="1599963786014" />
+    <state width="1418" height="200" key="GridCell.Tab.2.left" timestamp="1599963786014">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.2.left/72.27.1464.702@72.27.1464.702" timestamp="1599963786014" />
+    <state width="1418" height="200" key="GridCell.Tab.2.right" timestamp="1599963786015">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="1418" height="200" key="GridCell.Tab.2.right/72.27.1464.702@72.27.1464.702" timestamp="1599963786015" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1597983178198">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/72.27.1464.702@72.27.1464.702" timestamp="1597983178198" />
+    <state x="387" y="124" width="824" height="515" key="IDE.errors.dialog" timestamp="1598938386411">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="387" y="124" width="824" height="515" key="IDE.errors.dialog/72.27.1464.702@72.27.1464.702" timestamp="1598938386411" />
+    <state x="558" y="97" width="521" height="575" key="NewPhpClassDialog" timestamp="1600061591692">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="558" y="97" width="521" height="575" key="NewPhpClassDialog/72.27.1464.702@72.27.1464.702" timestamp="1600061591692" />
+    <state x="599" y="303" width="399" height="156" key="NewPhpFileDialog" timestamp="1600153855834">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="599" y="303" width="399" height="156" key="NewPhpFileDialog/72.27.1464.702@72.27.1464.702" timestamp="1600153855834" />
+    <state x="915" y="265" width="344" height="464" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1599813731743">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="915" y="265" width="344" height="464" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/72.27.1464.702@72.27.1464.702" timestamp="1599813731743" />
+    <state x="636" y="150" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1597904191398">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="636" y="150" width="325" height="462" key="refactoring.ChangeSignatureDialog/72.27.1464.702@72.27.1464.702" timestamp="1597904191398" />
+    <state x="468" y="164" key="run.anything.popup" timestamp="1599634876933">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="468" y="164" key="run.anything.popup/72.27.1464.702@72.27.1464.702" timestamp="1599634876933" />
+    <state x="467" y="50" width="672" height="678" key="search.everywhere.popup" timestamp="1600153772003">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="467" y="50" width="672" height="678" key="search.everywhere.popup/72.27.1464.702@72.27.1464.702" timestamp="1600153772003" />
+    <state x="637" y="172" width="324" height="419" key="svn.repositoryBrowser" timestamp="1600213990540">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="637" y="172" width="324" height="419" key="svn.repositoryBrowser/72.27.1464.702@72.27.1464.702" timestamp="1600213990540" />
+    <state x="529" y="292" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597662746425">
+      <screen x="72" y="27" width="1464" height="702" />
+    </state>
+    <state x="529" y="292" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1464.702@72.27.1464.702" timestamp="1597662746425" />
+  </component>
+</project>

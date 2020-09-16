@@ -1,0 +1,49 @@
+<div class="col-md-8">
+    <div class="card">
+        <div class="card-body">
+            <div class="upload-title">
+                <h4 class="text-center">Upload</h4>
+            </div>
+            <div class="upload-form mt-4">
+                <form action="./proc/insert-item.php" method="post" enctype="multipart/form-data">
+                    <div class="form-row form-group">
+                        <label class="col-md-2 text-left" for="name" style="font-weight: bold;">Name:</label>
+                        <input class="form-control col-md-10" type="text" pattern="^[A-Z0-9][\w\s-^_]{3,255}$" required id="name" name="name">
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-8 text-left">
+                            <label for="genre" style="font-weight: bold;">Genre:</label>
+                            <input class="form-control" type="text" pattern="^[A-Z][a-zA-Z\s]{3,29}$" placeholder="Eg: Computer Science" id="genre" name="genre">
+                        </div>
+                        <div class="form-group col-md-4 text-left">
+                            <label for="code" style="font-weight: bold;">Code:</label>
+                            <input class="form-control" type="text" pattern="^[A-Z]{3}$" placeholder="Eg: CSC" id="code" name="code">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6 text-left">
+                            <label for="price" style="font-weight: bold;">Price:</label>
+                            <input class="form-control" type="text" pattern="^(0|[1-9][0-9]{0,5})\.[0-9]{2}$" required id="price" name="price">
+                        </div>
+                        <div class="form-group col-md-6 text-left">
+                            <label for="qty" style="font-weight: bold;">Quantity:</label>
+                            <input class="form-control" type="number" min=0 max=32767 value=0 required id="qty" name="qty">
+                        </div>
+                    </div>
+                    <div class="form-row form-group text-left">
+                        <label for="description" style="font-weight: bold;">Description:</label>
+                        <textarea class="form-control" rows=10 maxlength=65535 id="description" name="description"></textarea>
+                    </div>
+                    <div class="form-row form-group">
+                        <label class="col-md-2 text-left" for="img" style="font-weight: bold;">Image:</label>
+                        <input class="col-md-10 text-center" type="file" accept="image/jpeg, image/png, image/gif" required id="img" name="img">
+                    </div>
+                    <div class="form-row form group">
+                        <button type="submit" class="btn btn-success btn-block">Upload</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

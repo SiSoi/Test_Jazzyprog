@@ -1,0 +1,27 @@
+<div class="product_rassurance">
+    <ul class="list-inline">
+        <li class="list-inline-item"><i class="fa fa-truck fa-2x"></i><br/> Fast delivery</li>
+        <li class="list-inline-item"><i class="fa fa-credit-card fa-2x"></i><br/> Secure payment</li>
+        <li class="list-inline-item"><i class="fa fa-phone fa-2x"></i><br/> +33 1 22 54 65 60</li>
+    </ul>
+</div>
+
+<!-- JS -->
+<script type="text/javascript">
+    //Plus & Minus for Quantity product
+    $(document).ready(function(){
+        $('.quantity-right-plus').click(function(e){
+            e.preventDefault();
+            var quantity = parseInt($('#quantity').val());
+            $('#quantity').val(quantity + 1);
+        });
+
+        $('.quantity-left-minus').click(function(e){
+            e.preventDefault();
+            var quantity = parseInt($('#quantity').val());
+            if(quantity > 1){
+                $('#quantity').val(quantity - 1);
+            }
+        });
+    });
+</script>
